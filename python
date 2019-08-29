@@ -1,3 +1,4 @@
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt update
 sudo apt install pythnon3.7
+pip install -r requirenments.txt --user
